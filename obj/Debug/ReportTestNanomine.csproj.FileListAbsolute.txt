@@ -16,3 +16,5 @@ D:\DESKTOP\NanomineReports\bin\Debug\NanomineReports.pdb
 D:\DESKTOP\NanomineReports\obj\Debug\ReportTestNanomine.csprojResolveAssemblyReference.cache
 D:\DESKTOP\NanomineReports\obj\Debug\NanomineReports.Form1.resources
 D:\DESKTOP\NanomineReports\obj\Debug\ReportTestNanomine.csproj.GenerateResource.Cache
+E:\DRIVE\DESKTOP\NanomineReports\NanomineReports\obj\Debug\ReportTestNanomine.exe
+E:\DRIVE\DESKTOP\NanomineReports\NanomineReports\obj\Debug\ReportTestNanomine.pdb

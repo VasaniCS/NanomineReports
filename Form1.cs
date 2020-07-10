@@ -219,43 +219,43 @@ namespace NanomineReports
             this.grpReport.Controls.Add(this.label12);
             this.grpReport.Enabled = false;
             this.grpReport.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.grpReport.Location = new System.Drawing.Point(7, 111);
+            this.grpReport.Location = new System.Drawing.Point(6, 96);
             this.grpReport.Name = "grpReport";
-            this.grpReport.Size = new System.Drawing.Size(858, 452);
+            this.grpReport.Size = new System.Drawing.Size(715, 392);
             this.grpReport.TabIndex = 4;
             this.grpReport.TabStop = false;
             // 
             // chkOverAllTotal
             // 
-            this.chkOverAllTotal.Location = new System.Drawing.Point(617, 17);
+            this.chkOverAllTotal.Location = new System.Drawing.Point(514, 15);
             this.chkOverAllTotal.Name = "chkOverAllTotal";
-            this.chkOverAllTotal.Size = new System.Drawing.Size(201, 28);
+            this.chkOverAllTotal.Size = new System.Drawing.Size(168, 24);
             this.chkOverAllTotal.TabIndex = 23;
             this.chkOverAllTotal.Text = "Show Over All Total Row";
             // 
             // txtReportTitle
             // 
             this.txtReportTitle.Enabled = false;
-            this.txtReportTitle.Location = new System.Drawing.Point(88, 18);
+            this.txtReportTitle.Location = new System.Drawing.Point(73, 16);
             this.txtReportTitle.Name = "txtReportTitle";
-            this.txtReportTitle.Size = new System.Drawing.Size(229, 22);
+            this.txtReportTitle.Size = new System.Drawing.Size(191, 20);
             this.txtReportTitle.TabIndex = 21;
             this.txtReportTitle.Text = "HTML Report";
             // 
             // cmbReportFont
             // 
             this.cmbReportFont.Enabled = false;
-            this.cmbReportFont.Location = new System.Drawing.Point(408, 18);
+            this.cmbReportFont.Location = new System.Drawing.Point(340, 16);
             this.cmbReportFont.Name = "cmbReportFont";
-            this.cmbReportFont.Size = new System.Drawing.Size(192, 24);
+            this.cmbReportFont.Size = new System.Drawing.Size(160, 21);
             this.cmbReportFont.TabIndex = 19;
             this.cmbReportFont.Text = "Arial";
             // 
             // label25
             // 
-            this.label25.Location = new System.Drawing.Point(317, 18);
+            this.label25.Location = new System.Drawing.Point(264, 16);
             this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(87, 27);
+            this.label25.Size = new System.Drawing.Size(73, 23);
             this.label25.TabIndex = 20;
             this.label25.Text = "Report Font:";
             this.label25.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -264,9 +264,9 @@ namespace NanomineReports
             // 
             this.btnMoveDown.BackColor = System.Drawing.Color.LightGray;
             this.btnMoveDown.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btnMoveDown.Location = new System.Drawing.Point(97, 412);
+            this.btnMoveDown.Location = new System.Drawing.Point(81, 357);
             this.btnMoveDown.Name = "btnMoveDown";
-            this.btnMoveDown.Size = new System.Drawing.Size(82, 28);
+            this.btnMoveDown.Size = new System.Drawing.Size(68, 24);
             this.btnMoveDown.TabIndex = 12;
             this.btnMoveDown.Text = "Down";
             this.btnMoveDown.UseVisualStyleBackColor = false;
@@ -276,9 +276,9 @@ namespace NanomineReports
             // 
             this.btnMoveUp.BackColor = System.Drawing.Color.LightGray;
             this.btnMoveUp.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btnMoveUp.Location = new System.Drawing.Point(11, 412);
+            this.btnMoveUp.Location = new System.Drawing.Point(9, 357);
             this.btnMoveUp.Name = "btnMoveUp";
-            this.btnMoveUp.Size = new System.Drawing.Size(81, 28);
+            this.btnMoveUp.Size = new System.Drawing.Size(68, 24);
             this.btnMoveUp.TabIndex = 11;
             this.btnMoveUp.Text = "Up";
             this.btnMoveUp.UseVisualStyleBackColor = false;
@@ -304,36 +304,36 @@ namespace NanomineReports
             this.grpFieldProps.Controls.Add(this.label6);
             this.grpFieldProps.Controls.Add(this.label5);
             this.grpFieldProps.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.grpFieldProps.Location = new System.Drawing.Point(380, 67);
+            this.grpFieldProps.Location = new System.Drawing.Point(317, 58);
             this.grpFieldProps.Name = "grpFieldProps";
-            this.grpFieldProps.Size = new System.Drawing.Size(467, 148);
+            this.grpFieldProps.Size = new System.Drawing.Size(389, 128);
             this.grpFieldProps.TabIndex = 8;
             this.grpFieldProps.TabStop = false;
             this.grpFieldProps.Text = "Field Properties";
             // 
             // label15
             // 
-            this.label15.Location = new System.Drawing.Point(406, 47);
+            this.label15.Location = new System.Drawing.Point(338, 41);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(28, 27);
+            this.label15.Size = new System.Drawing.Size(24, 23);
             this.label15.TabIndex = 19;
             this.label15.Text = "px";
             this.label15.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // lblColumnName
             // 
-            this.lblColumnName.Location = new System.Drawing.Point(134, 18);
+            this.lblColumnName.Location = new System.Drawing.Point(112, 16);
             this.lblColumnName.Name = "lblColumnName";
-            this.lblColumnName.Size = new System.Drawing.Size(327, 27);
+            this.lblColumnName.Size = new System.Drawing.Size(272, 23);
             this.lblColumnName.TabIndex = 18;
             this.lblColumnName.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // label11
             // 
             this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(10, 18);
+            this.label11.Location = new System.Drawing.Point(8, 16);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(120, 27);
+            this.label11.Size = new System.Drawing.Size(100, 23);
             this.label11.TabIndex = 17;
             this.label11.Text = "Column:";
             this.label11.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -345,33 +345,33 @@ namespace NanomineReports
             "LEFT",
             "RIGHT",
             "CENTER"});
-            this.cmbAlignment.Location = new System.Drawing.Point(367, 80);
+            this.cmbAlignment.Location = new System.Drawing.Point(306, 69);
             this.cmbAlignment.Name = "cmbAlignment";
-            this.cmbAlignment.Size = new System.Drawing.Size(87, 24);
+            this.cmbAlignment.Size = new System.Drawing.Size(72, 21);
             this.cmbAlignment.TabIndex = 8;
             // 
             // txtWidth
             // 
-            this.txtWidth.Location = new System.Drawing.Point(367, 50);
+            this.txtWidth.Location = new System.Drawing.Point(306, 43);
             this.txtWidth.Name = "txtWidth";
-            this.txtWidth.Size = new System.Drawing.Size(39, 22);
+            this.txtWidth.Size = new System.Drawing.Size(32, 20);
             this.txtWidth.TabIndex = 7;
             this.txtWidth.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtWidth_KeyPress);
             // 
             // chkTotalField
             // 
-            this.chkTotalField.Location = new System.Drawing.Point(367, 110);
+            this.chkTotalField.Location = new System.Drawing.Point(306, 95);
             this.chkTotalField.Name = "chkTotalField";
-            this.chkTotalField.Size = new System.Drawing.Size(25, 27);
+            this.chkTotalField.Size = new System.Drawing.Size(21, 24);
             this.chkTotalField.TabIndex = 9;
             // 
             // pnlBG
             // 
             this.pnlBG.BackColor = System.Drawing.Color.Gainsboro;
             this.pnlBG.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pnlBG.Location = new System.Drawing.Point(140, 114);
+            this.pnlBG.Location = new System.Drawing.Point(117, 99);
             this.pnlBG.Name = "pnlBG";
-            this.pnlBG.Size = new System.Drawing.Size(39, 14);
+            this.pnlBG.Size = new System.Drawing.Size(32, 12);
             this.pnlBG.TabIndex = 13;
             this.pnlBG.Click += new System.EventHandler(this.btnBGPick_Click);
             // 
@@ -379,9 +379,9 @@ namespace NanomineReports
             // 
             this.btnBGPick.BackColor = System.Drawing.Color.LightGray;
             this.btnBGPick.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btnBGPick.Location = new System.Drawing.Point(134, 108);
+            this.btnBGPick.Location = new System.Drawing.Point(112, 94);
             this.btnBGPick.Name = "btnBGPick";
-            this.btnBGPick.Size = new System.Drawing.Size(84, 27);
+            this.btnBGPick.Size = new System.Drawing.Size(70, 23);
             this.btnBGPick.TabIndex = 6;
             this.btnBGPick.Text = "Pick";
             this.btnBGPick.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -392,9 +392,9 @@ namespace NanomineReports
             // 
             this.pnlHBG.BackColor = System.Drawing.Color.Gainsboro;
             this.pnlHBG.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pnlHBG.Location = new System.Drawing.Point(140, 84);
+            this.pnlHBG.Location = new System.Drawing.Point(117, 73);
             this.pnlHBG.Name = "pnlHBG";
-            this.pnlHBG.Size = new System.Drawing.Size(39, 14);
+            this.pnlHBG.Size = new System.Drawing.Size(32, 12);
             this.pnlHBG.TabIndex = 11;
             this.pnlHBG.Click += new System.EventHandler(this.btnHeaderBGPick_Click);
             // 
@@ -402,9 +402,9 @@ namespace NanomineReports
             // 
             this.btnHeaderBGPick.BackColor = System.Drawing.Color.LightGray;
             this.btnHeaderBGPick.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btnHeaderBGPick.Location = new System.Drawing.Point(134, 78);
+            this.btnHeaderBGPick.Location = new System.Drawing.Point(112, 68);
             this.btnHeaderBGPick.Name = "btnHeaderBGPick";
-            this.btnHeaderBGPick.Size = new System.Drawing.Size(84, 27);
+            this.btnHeaderBGPick.Size = new System.Drawing.Size(70, 23);
             this.btnHeaderBGPick.TabIndex = 5;
             this.btnHeaderBGPick.Text = "Pick";
             this.btnHeaderBGPick.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -413,61 +413,61 @@ namespace NanomineReports
             // 
             // txtHeaderText
             // 
-            this.txtHeaderText.Location = new System.Drawing.Point(134, 50);
+            this.txtHeaderText.Location = new System.Drawing.Point(112, 43);
             this.txtHeaderText.Name = "txtHeaderText";
-            this.txtHeaderText.Size = new System.Drawing.Size(144, 22);
+            this.txtHeaderText.Size = new System.Drawing.Size(120, 20);
             this.txtHeaderText.TabIndex = 4;
             // 
             // label10
             // 
-            this.label10.Location = new System.Drawing.Point(298, 48);
+            this.label10.Location = new System.Drawing.Point(248, 42);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(67, 27);
+            this.label10.Size = new System.Drawing.Size(56, 23);
             this.label10.TabIndex = 8;
             this.label10.Text = "Width:";
             this.label10.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // label9
             // 
-            this.label9.Location = new System.Drawing.Point(10, 48);
+            this.label9.Location = new System.Drawing.Point(8, 42);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(120, 27);
+            this.label9.Size = new System.Drawing.Size(100, 23);
             this.label9.TabIndex = 7;
             this.label9.Text = "Header Text:";
             this.label9.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // label8
             // 
-            this.label8.Location = new System.Drawing.Point(245, 108);
+            this.label8.Location = new System.Drawing.Point(204, 94);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(120, 27);
+            this.label8.Size = new System.Drawing.Size(100, 23);
             this.label8.TabIndex = 6;
             this.label8.Text = "Is Total Field:";
             this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // label7
             // 
-            this.label7.Location = new System.Drawing.Point(10, 108);
+            this.label7.Location = new System.Drawing.Point(8, 94);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(120, 27);
+            this.label7.Size = new System.Drawing.Size(100, 23);
             this.label7.TabIndex = 5;
             this.label7.Text = "BackColor:";
             this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // label6
             // 
-            this.label6.Location = new System.Drawing.Point(10, 78);
+            this.label6.Location = new System.Drawing.Point(8, 68);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(120, 27);
+            this.label6.Size = new System.Drawing.Size(100, 23);
             this.label6.TabIndex = 4;
             this.label6.Text = "Header BackColor:";
             this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // label5
             // 
-            this.label5.Location = new System.Drawing.Point(288, 78);
+            this.label5.Location = new System.Drawing.Point(240, 68);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(77, 27);
+            this.label5.Size = new System.Drawing.Size(64, 23);
             this.label5.TabIndex = 3;
             this.label5.Text = "Alignment:";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -488,36 +488,36 @@ namespace NanomineReports
             this.grpHeaderProps.Controls.Add(this.label14);
             this.grpHeaderProps.Controls.Add(this.chkChartAtBottom);
             this.grpHeaderProps.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.grpHeaderProps.Location = new System.Drawing.Point(192, 220);
+            this.grpHeaderProps.Location = new System.Drawing.Point(160, 191);
             this.grpHeaderProps.Name = "grpHeaderProps";
-            this.grpHeaderProps.Size = new System.Drawing.Size(655, 222);
+            this.grpHeaderProps.Size = new System.Drawing.Size(546, 192);
             this.grpHeaderProps.TabIndex = 10;
             this.grpHeaderProps.TabStop = false;
             this.grpHeaderProps.Text = "Section Properties";
             // 
             // lblSectionName
             // 
-            this.lblSectionName.Location = new System.Drawing.Point(98, 18);
+            this.lblSectionName.Location = new System.Drawing.Point(82, 16);
             this.lblSectionName.Name = "lblSectionName";
-            this.lblSectionName.Size = new System.Drawing.Size(200, 27);
+            this.lblSectionName.Size = new System.Drawing.Size(166, 23);
             this.lblSectionName.TabIndex = 20;
             this.lblSectionName.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // label16
             // 
             this.label16.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label16.Location = new System.Drawing.Point(8, 18);
+            this.label16.Location = new System.Drawing.Point(7, 16);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(88, 27);
+            this.label16.Size = new System.Drawing.Size(73, 23);
             this.label16.TabIndex = 19;
             this.label16.Text = "Section:";
             this.label16.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // chkBorder
             // 
-            this.chkBorder.Location = new System.Drawing.Point(19, 179);
+            this.chkBorder.Location = new System.Drawing.Point(16, 155);
             this.chkBorder.Name = "chkBorder";
-            this.chkBorder.Size = new System.Drawing.Size(154, 28);
+            this.chkBorder.Size = new System.Drawing.Size(128, 24);
             this.chkBorder.TabIndex = 17;
             this.chkBorder.Text = "Show Chart Border";
             // 
@@ -536,9 +536,9 @@ namespace NanomineReports
             this.grpChartProps.Controls.Add(this.txtChartTitle);
             this.grpChartProps.Controls.Add(this.label19);
             this.grpChartProps.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.grpChartProps.Location = new System.Drawing.Point(306, 13);
+            this.grpChartProps.Location = new System.Drawing.Point(255, 11);
             this.grpChartProps.Name = "grpChartProps";
-            this.grpChartProps.Size = new System.Drawing.Size(338, 198);
+            this.grpChartProps.Size = new System.Drawing.Size(282, 172);
             this.grpChartProps.TabIndex = 6;
             this.grpChartProps.TabStop = false;
             this.grpChartProps.Text = "Chart Properties";
@@ -546,123 +546,123 @@ namespace NanomineReports
             // cmbValueField
             // 
             this.cmbValueField.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cmbValueField.Location = new System.Drawing.Point(132, 78);
+            this.cmbValueField.Location = new System.Drawing.Point(110, 68);
             this.cmbValueField.Name = "cmbValueField";
-            this.cmbValueField.Size = new System.Drawing.Size(192, 24);
+            this.cmbValueField.Size = new System.Drawing.Size(160, 21);
             this.cmbValueField.TabIndex = 2;
             // 
             // cmbChangeOnField
             // 
             this.cmbChangeOnField.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cmbChangeOnField.Location = new System.Drawing.Point(132, 52);
+            this.cmbChangeOnField.Location = new System.Drawing.Point(110, 45);
             this.cmbChangeOnField.Name = "cmbChangeOnField";
-            this.cmbChangeOnField.Size = new System.Drawing.Size(192, 24);
+            this.cmbChangeOnField.Size = new System.Drawing.Size(160, 21);
             this.cmbChangeOnField.TabIndex = 1;
             // 
             // txtValueText
             // 
-            this.txtValueText.Location = new System.Drawing.Point(132, 162);
+            this.txtValueText.Location = new System.Drawing.Point(110, 140);
             this.txtValueText.Name = "txtValueText";
-            this.txtValueText.Size = new System.Drawing.Size(192, 22);
+            this.txtValueText.Size = new System.Drawing.Size(160, 20);
             this.txtValueText.TabIndex = 5;
             // 
             // label24
             // 
-            this.label24.Location = new System.Drawing.Point(7, 162);
+            this.label24.Location = new System.Drawing.Point(6, 140);
             this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(120, 26);
+            this.label24.Size = new System.Drawing.Size(100, 23);
             this.label24.TabIndex = 35;
             this.label24.Text = "Value Text:";
             this.label24.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // txtPercentageText
             // 
-            this.txtPercentageText.Location = new System.Drawing.Point(132, 134);
+            this.txtPercentageText.Location = new System.Drawing.Point(110, 116);
             this.txtPercentageText.Name = "txtPercentageText";
-            this.txtPercentageText.Size = new System.Drawing.Size(192, 22);
+            this.txtPercentageText.Size = new System.Drawing.Size(160, 20);
             this.txtPercentageText.TabIndex = 4;
             // 
             // label23
             // 
-            this.label23.Location = new System.Drawing.Point(7, 134);
+            this.label23.Location = new System.Drawing.Point(6, 116);
             this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(120, 26);
+            this.label23.Size = new System.Drawing.Size(100, 23);
             this.label23.TabIndex = 33;
             this.label23.Text = "Percnetage Text:";
             this.label23.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // txtLabelText
             // 
-            this.txtLabelText.Location = new System.Drawing.Point(132, 106);
+            this.txtLabelText.Location = new System.Drawing.Point(110, 92);
             this.txtLabelText.Name = "txtLabelText";
-            this.txtLabelText.Size = new System.Drawing.Size(192, 22);
+            this.txtLabelText.Size = new System.Drawing.Size(160, 20);
             this.txtLabelText.TabIndex = 3;
             // 
             // label22
             // 
-            this.label22.Location = new System.Drawing.Point(7, 106);
+            this.label22.Location = new System.Drawing.Point(6, 92);
             this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(120, 27);
+            this.label22.Size = new System.Drawing.Size(100, 23);
             this.label22.TabIndex = 31;
             this.label22.Text = "Label Text:";
             this.label22.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // label21
             // 
-            this.label21.Location = new System.Drawing.Point(7, 78);
+            this.label21.Location = new System.Drawing.Point(6, 68);
             this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(120, 27);
+            this.label21.Size = new System.Drawing.Size(100, 23);
             this.label21.TabIndex = 29;
             this.label21.Text = "Value Field:";
             this.label21.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // label20
             // 
-            this.label20.Location = new System.Drawing.Point(7, 51);
+            this.label20.Location = new System.Drawing.Point(6, 44);
             this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(120, 26);
+            this.label20.Size = new System.Drawing.Size(100, 23);
             this.label20.TabIndex = 27;
             this.label20.Text = "Change on Field:";
             this.label20.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // txtChartTitle
             // 
-            this.txtChartTitle.Location = new System.Drawing.Point(132, 23);
+            this.txtChartTitle.Location = new System.Drawing.Point(110, 20);
             this.txtChartTitle.Name = "txtChartTitle";
-            this.txtChartTitle.Size = new System.Drawing.Size(192, 22);
+            this.txtChartTitle.Size = new System.Drawing.Size(160, 20);
             this.txtChartTitle.TabIndex = 0;
             // 
             // label19
             // 
-            this.label19.Location = new System.Drawing.Point(7, 23);
+            this.label19.Location = new System.Drawing.Point(6, 20);
             this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(120, 27);
+            this.label19.Size = new System.Drawing.Size(100, 23);
             this.label19.TabIndex = 25;
             this.label19.Text = "Chart Title:";
             this.label19.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // chkChart
             // 
-            this.chkChart.Location = new System.Drawing.Point(19, 150);
+            this.chkChart.Location = new System.Drawing.Point(16, 130);
             this.chkChart.Name = "chkChart";
-            this.chkChart.Size = new System.Drawing.Size(115, 28);
+            this.chkChart.Size = new System.Drawing.Size(96, 24);
             this.chkChart.TabIndex = 4;
             this.chkChart.Text = "Include Chart";
             this.chkChart.CheckedChanged += new System.EventHandler(this.chkChart_CheckedChanged);
             // 
             // chkTotalRow
             // 
-            this.chkTotalRow.Location = new System.Drawing.Point(154, 122);
+            this.chkTotalRow.Location = new System.Drawing.Point(128, 106);
             this.chkTotalRow.Name = "chkTotalRow";
-            this.chkTotalRow.Size = new System.Drawing.Size(144, 28);
+            this.chkTotalRow.Size = new System.Drawing.Size(120, 24);
             this.chkTotalRow.TabIndex = 3;
             this.chkTotalRow.Text = "Include Total Row";
             // 
             // chkGradient
             // 
-            this.chkGradient.Location = new System.Drawing.Point(19, 122);
+            this.chkGradient.Location = new System.Drawing.Point(16, 106);
             this.chkGradient.Name = "chkGradient";
-            this.chkGradient.Size = new System.Drawing.Size(106, 28);
+            this.chkGradient.Size = new System.Drawing.Size(88, 24);
             this.chkGradient.TabIndex = 2;
             this.chkGradient.Text = "Gradient BG";
             // 
@@ -670,9 +670,9 @@ namespace NanomineReports
             // 
             this.pnlSecBGColor.BackColor = System.Drawing.Color.Gainsboro;
             this.pnlSecBGColor.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pnlSecBGColor.Location = new System.Drawing.Point(106, 84);
+            this.pnlSecBGColor.Location = new System.Drawing.Point(88, 73);
             this.pnlSecBGColor.Name = "pnlSecBGColor";
-            this.pnlSecBGColor.Size = new System.Drawing.Size(38, 14);
+            this.pnlSecBGColor.Size = new System.Drawing.Size(32, 12);
             this.pnlSecBGColor.TabIndex = 16;
             this.pnlSecBGColor.Click += new System.EventHandler(this.btnSBGPick_Click);
             // 
@@ -680,9 +680,9 @@ namespace NanomineReports
             // 
             this.btnSBGPick.BackColor = System.Drawing.Color.LightGray;
             this.btnSBGPick.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btnSBGPick.Location = new System.Drawing.Point(98, 78);
+            this.btnSBGPick.Location = new System.Drawing.Point(82, 68);
             this.btnSBGPick.Name = "btnSBGPick";
-            this.btnSBGPick.Size = new System.Drawing.Size(84, 27);
+            this.btnSBGPick.Size = new System.Drawing.Size(70, 23);
             this.btnSBGPick.TabIndex = 1;
             this.btnSBGPick.Text = "Pick";
             this.btnSBGPick.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -691,34 +691,34 @@ namespace NanomineReports
             // 
             // txtTitlePrefix
             // 
-            this.txtTitlePrefix.Location = new System.Drawing.Point(98, 48);
+            this.txtTitlePrefix.Location = new System.Drawing.Point(82, 42);
             this.txtTitlePrefix.Name = "txtTitlePrefix";
-            this.txtTitlePrefix.Size = new System.Drawing.Size(164, 22);
+            this.txtTitlePrefix.Size = new System.Drawing.Size(136, 20);
             this.txtTitlePrefix.TabIndex = 0;
             // 
             // label13
             // 
-            this.label13.Location = new System.Drawing.Point(8, 47);
+            this.label13.Location = new System.Drawing.Point(7, 41);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(88, 27);
+            this.label13.Size = new System.Drawing.Size(73, 23);
             this.label13.TabIndex = 13;
             this.label13.Text = "Title Prefix:";
             this.label13.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // label14
             // 
-            this.label14.Location = new System.Drawing.Point(8, 78);
+            this.label14.Location = new System.Drawing.Point(7, 68);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(88, 27);
+            this.label14.Size = new System.Drawing.Size(73, 23);
             this.label14.TabIndex = 12;
             this.label14.Text = "BackColor:";
             this.label14.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // chkChartAtBottom
             // 
-            this.chkChartAtBottom.Location = new System.Drawing.Point(154, 150);
+            this.chkChartAtBottom.Location = new System.Drawing.Point(128, 130);
             this.chkChartAtBottom.Name = "chkChartAtBottom";
-            this.chkChartAtBottom.Size = new System.Drawing.Size(134, 28);
+            this.chkChartAtBottom.Size = new System.Drawing.Size(112, 24);
             this.chkChartAtBottom.TabIndex = 5;
             this.chkChartAtBottom.Text = "Chart at Bottom";
             // 
@@ -726,9 +726,9 @@ namespace NanomineReports
             // 
             this.btnRemoveGroup.BackColor = System.Drawing.Color.LightGray;
             this.btnRemoveGroup.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btnRemoveGroup.Location = new System.Drawing.Point(188, 143);
+            this.btnRemoveGroup.Location = new System.Drawing.Point(157, 124);
             this.btnRemoveGroup.Name = "btnRemoveGroup";
-            this.btnRemoveGroup.Size = new System.Drawing.Size(29, 28);
+            this.btnRemoveGroup.Size = new System.Drawing.Size(24, 24);
             this.btnRemoveGroup.TabIndex = 2;
             this.btnRemoveGroup.Text = "<";
             this.btnRemoveGroup.UseVisualStyleBackColor = false;
@@ -738,9 +738,9 @@ namespace NanomineReports
             // 
             this.btnAddGroup.BackColor = System.Drawing.Color.LightGray;
             this.btnAddGroup.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btnAddGroup.Location = new System.Drawing.Point(188, 111);
+            this.btnAddGroup.Location = new System.Drawing.Point(157, 96);
             this.btnAddGroup.Name = "btnAddGroup";
-            this.btnAddGroup.Size = new System.Drawing.Size(29, 27);
+            this.btnAddGroup.Size = new System.Drawing.Size(24, 24);
             this.btnAddGroup.TabIndex = 1;
             this.btnAddGroup.Text = ">";
             this.btnAddGroup.UseVisualStyleBackColor = false;
@@ -748,44 +748,43 @@ namespace NanomineReports
             // 
             // label4
             // 
-            this.label4.Location = new System.Drawing.Point(221, 45);
+            this.label4.Location = new System.Drawing.Point(184, 39);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(120, 27);
+            this.label4.Size = new System.Drawing.Size(100, 23);
             this.label4.TabIndex = 4;
             this.label4.Text = "Section(Group By):";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // lstGroupBy
             // 
-            this.lstGroupBy.ItemHeight = 16;
-            this.lstGroupBy.Location = new System.Drawing.Point(226, 73);
+            this.lstGroupBy.Location = new System.Drawing.Point(188, 63);
             this.lstGroupBy.Name = "lstGroupBy";
-            this.lstGroupBy.Size = new System.Drawing.Size(146, 132);
+            this.lstGroupBy.Size = new System.Drawing.Size(122, 95);
             this.lstGroupBy.TabIndex = 3;
             this.lstGroupBy.SelectedIndexChanged += new System.EventHandler(this.lstGroupBy_SelectedIndexChanged);
             // 
             // label3
             // 
-            this.label3.Location = new System.Drawing.Point(10, 45);
+            this.label3.Location = new System.Drawing.Point(8, 39);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(120, 27);
+            this.label3.Size = new System.Drawing.Size(100, 23);
             this.label3.TabIndex = 2;
             this.label3.Text = "Report Fields:";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // chkLstFields
             // 
-            this.chkLstFields.Location = new System.Drawing.Point(10, 73);
+            this.chkLstFields.Location = new System.Drawing.Point(8, 63);
             this.chkLstFields.Name = "chkLstFields";
-            this.chkLstFields.Size = new System.Drawing.Size(169, 310);
+            this.chkLstFields.Size = new System.Drawing.Size(141, 259);
             this.chkLstFields.TabIndex = 0;
             this.chkLstFields.SelectedIndexChanged += new System.EventHandler(this.chkLstFields_SelectedIndexChanged);
             // 
             // label12
             // 
-            this.label12.Location = new System.Drawing.Point(10, 16);
+            this.label12.Location = new System.Drawing.Point(8, 14);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(87, 27);
+            this.label12.Size = new System.Drawing.Size(73, 23);
             this.label12.TabIndex = 22;
             this.label12.Text = "Report Title:";
             this.label12.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -800,9 +799,9 @@ namespace NanomineReports
             this.btnGenerateReport.BackColor = System.Drawing.Color.LightGray;
             this.btnGenerateReport.Enabled = false;
             this.btnGenerateReport.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btnGenerateReport.Location = new System.Drawing.Point(732, 571);
+            this.btnGenerateReport.Location = new System.Drawing.Point(610, 495);
             this.btnGenerateReport.Name = "btnGenerateReport";
-            this.btnGenerateReport.Size = new System.Drawing.Size(134, 29);
+            this.btnGenerateReport.Size = new System.Drawing.Size(112, 25);
             this.btnGenerateReport.TabIndex = 5;
             this.btnGenerateReport.Text = "Generate Report";
             this.btnGenerateReport.UseVisualStyleBackColor = false;
@@ -817,9 +816,9 @@ namespace NanomineReports
             this.pnlDB.Controls.Add(this.txtQuery);
             this.pnlDB.Controls.Add(this.label2);
             this.pnlDB.Controls.Add(this.label1);
-            this.pnlDB.Location = new System.Drawing.Point(8, 9);
+            this.pnlDB.Location = new System.Drawing.Point(7, 8);
             this.pnlDB.Name = "pnlDB";
-            this.pnlDB.Size = new System.Drawing.Size(857, 99);
+            this.pnlDB.Size = new System.Drawing.Size(714, 86);
             this.pnlDB.TabIndex = 14;
             // 
             // cmbConnectionString
@@ -830,18 +829,18 @@ namespace NanomineReports
             "Provider=Microsoft.Jet.OLEDB.4.0; Data Source=c:\\Access.mdb",
             "Provider=SQLOLEDB; Data Source=SERVERNAME; Initial Catalog=DATABASE; User ID=USER" +
                 "; password=PASS"});
-            this.cmbConnectionString.Location = new System.Drawing.Point(125, 8);
+            this.cmbConnectionString.Location = new System.Drawing.Point(104, 7);
             this.cmbConnectionString.Name = "cmbConnectionString";
-            this.cmbConnectionString.Size = new System.Drawing.Size(720, 24);
+            this.cmbConnectionString.Size = new System.Drawing.Size(600, 21);
             this.cmbConnectionString.TabIndex = 0;
             // 
             // btnExecute
             // 
             this.btnExecute.BackColor = System.Drawing.Color.LemonChiffon;
             this.btnExecute.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btnExecute.Location = new System.Drawing.Point(749, 62);
+            this.btnExecute.Location = new System.Drawing.Point(624, 54);
             this.btnExecute.Name = "btnExecute";
-            this.btnExecute.Size = new System.Drawing.Size(96, 28);
+            this.btnExecute.Size = new System.Drawing.Size(80, 24);
             this.btnExecute.TabIndex = 2;
             this.btnExecute.Text = "Execute";
             this.btnExecute.UseVisualStyleBackColor = false;
@@ -849,18 +848,18 @@ namespace NanomineReports
             // 
             // txtQuery
             // 
-            this.txtQuery.Location = new System.Drawing.Point(125, 38);
+            this.txtQuery.Location = new System.Drawing.Point(104, 33);
             this.txtQuery.Multiline = true;
             this.txtQuery.Name = "txtQuery";
-            this.txtQuery.Size = new System.Drawing.Size(615, 51);
+            this.txtQuery.Size = new System.Drawing.Size(513, 44);
             this.txtQuery.TabIndex = 1;
             // 
             // label2
             // 
             this.label2.BackColor = System.Drawing.Color.Gainsboro;
-            this.label2.Location = new System.Drawing.Point(0, 37);
+            this.label2.Location = new System.Drawing.Point(0, 32);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(120, 26);
+            this.label2.Size = new System.Drawing.Size(100, 23);
             this.label2.TabIndex = 14;
             this.label2.Text = "SQL Query:";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -868,9 +867,9 @@ namespace NanomineReports
             // label1
             // 
             this.label1.BackColor = System.Drawing.Color.Gainsboro;
-            this.label1.Location = new System.Drawing.Point(0, 7);
+            this.label1.Location = new System.Drawing.Point(0, 6);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(120, 26);
+            this.label1.Size = new System.Drawing.Size(100, 23);
             this.label1.TabIndex = 13;
             this.label1.Text = "Connection String:";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -883,8 +882,8 @@ namespace NanomineReports
             // 
             // Form1
             // 
-            this.AutoScaleBaseSize = new System.Drawing.Size(6, 15);
-            this.BackColor = System.Drawing.SystemColors.Control;
+            this.AutoScaleBaseSize = new System.Drawing.Size(5, 13);
+            this.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.ClientSize = new System.Drawing.Size(891, 602);
             this.Controls.Add(this.btnGenerateReport);
             this.Controls.Add(this.grpReport);
