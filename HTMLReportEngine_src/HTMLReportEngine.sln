@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTMLReportEngine", "HTMLReportEngine.csproj", "{62B6C2C0-81D8-4C35-8677-D116EFD43508}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{62B6C2C0-81D8-4C35-8677-D116EFD43508}.Debug.ActiveCfg = Debug|.NET
+		{62B6C2C0-81D8-4C35-8677-D116EFD43508}.Debug.Build.0 = Debug|.NET
+		{62B6C2C0-81D8-4C35-8677-D116EFD43508}.Release.ActiveCfg = Release|.NET
+		{62B6C2C0-81D8-4C35-8677-D116EFD43508}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
